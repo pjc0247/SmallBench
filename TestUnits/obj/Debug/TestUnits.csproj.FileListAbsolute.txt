@@ -1,0 +1,12 @@
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\TestUnits\bin\Debug\TestUnits.exe.config
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\TestUnits\bin\Debug\TestUnits.exe
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\TestUnits\bin\Debug\TestUnits.pdb
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\TestUnits\bin\Debug\SmallBench.dll
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\TestUnits\bin\Debug\Mono.Cecil.dll
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\TestUnits\bin\Debug\SmallBench.pdb
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\TestUnits\bin\Debug\SmallBench.dll.config
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\TestUnits\obj\Debug\TestUnits.csprojAssemblyReference.cache
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\TestUnits\obj\Debug\TestUnits.csproj.CoreCompileInputs.cache
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\TestUnits\obj\Debug\TestUnits.csproj.CopyComplete
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\TestUnits\obj\Debug\TestUnits.exe
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\TestUnits\obj\Debug\TestUnits.pdb

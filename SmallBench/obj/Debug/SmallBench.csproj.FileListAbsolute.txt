@@ -1,0 +1,12 @@
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\SmallBench\bin\Debug\SmallBench.pdb
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\SmallBench\obj\Debug\SmallBench.csprojAssemblyReference.cache
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\SmallBench\obj\Debug\SmallBench.csproj.CoreCompileInputs.cache
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\SmallBench\obj\Debug\SmallBench.pdb
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\SmallBench\bin\Debug\Mono.Cecil.dll
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\SmallBench\bin\Debug\Mono.Cecil.Mdb.dll
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\SmallBench\bin\Debug\Mono.Cecil.Pdb.dll
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\SmallBench\bin\Debug\Mono.Cecil.Rocks.dll
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\SmallBench\obj\Debug\SmallBench.csproj.CopyComplete
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\SmallBench\bin\Debug\SmallBench.dll.config
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\SmallBench\bin\Debug\SmallBench.dll
+c:\users\rini\documents\visual studio 2017\Projects\SmallBench\SmallBench\obj\Debug\SmallBench.dll
