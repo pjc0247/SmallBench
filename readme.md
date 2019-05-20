@@ -1,6 +1,8 @@
 SmallBench
 ====
 
+[Sample report](sample.md)
+
 ```cs
 [TestDescription("")]
 [TestIteration(new int[] { 100, 1000, 10000 })]
